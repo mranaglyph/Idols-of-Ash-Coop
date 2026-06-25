@@ -1,6 +1,6 @@
 Installation: 
 
-Simply download the zip file (idol coop.zip) and unpack it to your game (exe) folder, 
+Simply download and unpack the zip file (idol coop.zip) to your game (exe) folder, 
 so the contents sit next to the idols_of_ash.exe. 
 It should extract:
   a folder (mods-unpacked)
