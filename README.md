@@ -1,4 +1,5 @@
 Installation: 
+
 Simply download the zip file and unpack it to your game (exe) folder, so the contents sit next to the idols_of_ash.exe. 
 It should extract:
   a folder (mods-unpacked)
@@ -6,6 +7,7 @@ It should extract:
 Installation done!
 
 Usage:
+
 The easiest method is to go to the main menu and press F2.
 The host will enter thier name and password then click the 'host' button. 
 A cooperator will also press F2 from the main menu, then enter their name, the same password, and click the 'join' button.
@@ -14,10 +16,12 @@ play together -- it must be the same level of course.
 This mod allows for up to 4 players at the same time.
 
 !Important!
+
 This mod uses Steam's networking so port forwarding and IP sharing is not needed. However, as a precaution,
 make sure you use a strong password and only share it with people you want to play with and know.
 
 Misc:
+
 Currently, you can see the player's collision capsule shape, and the name of the player when you are close to them.
 There are no limits on the name or password so be aware offensive names could be used.
 There may be occasional graphical issues such as seeing duplicates of your player in the world; this is just visual and 
