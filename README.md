@@ -24,7 +24,7 @@ make sure you use a strong password and only share it with people you want to pl
 
 Misc:
 
-This project was created with AI, and reviewed by humans.
+This project was created with AI, and play tested by humans.
 Currently, you can see the player's collision capsule shape, and the name of the player when you are close to them.
 There are no limits on the name or password so be aware offensive names could be used.
 There may be occasional graphical issues such as seeing duplicates of your player in the world; this is just visual and 
